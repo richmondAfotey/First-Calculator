@@ -30,7 +30,7 @@ display = tk.Entry(root, font=("Arial", 24), borderwidth=2, relief="groove", jus
 display.grid(row=0, column=0, columnspan=4, padx=10, pady=10)
 
 
-# --- MILESTONE 2: THE BUTTONS ---
+# --- MILESTONE 1: THE BUTTONS ---
 buttons = [
     ['7', '8', '9', '/'],
     ['4', '5', '6', '*'],
